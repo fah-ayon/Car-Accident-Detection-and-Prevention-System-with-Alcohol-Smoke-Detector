@@ -244,7 +244,7 @@ ALERT: Collision detected!
 Location: https://www.google.com/maps?q=23.780573,90.279239
 ```
 <div align="center">
-  <img src="https://images2.imgbox.com/4a/57/9qSDx0qG_o.jpg" alt="Telegram SOS alert" />
+  <img src="https://images2.imgbox.com/4a/57/9qSDx0qG_o.jpg" alt="Telegram SOS alert" width="350" />
 </div>
 
 ## 🔧 How It Works  
