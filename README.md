@@ -199,7 +199,7 @@ The hardware connections of sensors, motor driver, GPS, and ESP32 are shown belo
 Real hardware setup of the system:  
 
 <div align="center">
-  <img src="https://images2.imgbox.com/f7/c9/FglbuKU0_o.jpg" alt="Hardware Pic" width="800" />
+  <img src="https://images2.imgbox.com/35/13/lD0pWG5v_o.jpg" alt="Car Safety System Hardware" width="600" />
 </div>
 
 ---
