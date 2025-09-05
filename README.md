@@ -243,6 +243,9 @@ Example SOS Alert:
 ALERT: Collision detected!
 Location: https://www.google.com/maps?q=23.780573,90.279239
 ```
+<div align="center">
+  <img src="https://images2.imgbox.com/4a/57/9qSDx0qG_o.jpg" alt="Telegram SOS alert" />
+</div>
 
 ## 🔧 How It Works  
 1. **Ignition ON** → Driver presses ignition button.  
